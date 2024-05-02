@@ -28,12 +28,8 @@
     <Compile Include="data_loader.py" />
     <Compile Include="function_selector.py" />
     <Compile Include="main.py" />
-    <Compile Include="test_mapper - Copy.py" />
     <Compile Include="test_mapper.py" />
     <Compile Include="visualizer.py" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="NewFolder2\" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.8" />
