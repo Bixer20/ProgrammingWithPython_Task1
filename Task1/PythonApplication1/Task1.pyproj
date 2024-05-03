@@ -24,6 +24,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="class1.py" />
     <Compile Include="database.py" />
     <Compile Include="data_loader.py" />
     <Compile Include="function_selector.py" />
