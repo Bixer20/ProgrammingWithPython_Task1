@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\test_mapper.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|solutionrelative:PythonApplication1\\test_mapper.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\visualizer.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|solutionrelative:PythonApplication1\\visualizer.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|solutionrelative:PythonApplication1\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|solutionrelative:PythonApplication1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\test_mapper.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|solutionrelative:PythonApplication1\\test_mapper.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\function_selector.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|solutionrelative:PythonApplication1\\function_selector.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|solutionrelative:PythonApplication1\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\data_loader.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|solutionrelative:PythonApplication1\\data_loader.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29D9E764-827A-4CDE-9BEC-C42108C93C25}|PythonApplication1\\Task1.pyproj|solutionrelative:PythonApplication1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,44 +33,44 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 243,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 170,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "visualizer.py",
-              "DocumentMoniker": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\visualizer.py",
-              "RelativeDocumentMoniker": "PythonApplication1\\visualizer.py",
-              "ToolTip": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\visualizer.py",
-              "RelativeToolTip": "PythonApplication1\\visualizer.py",
-              "ViewState": "AQIAABkAAAAANDMzMzMLwFMAAAArAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
-              "WhenOpened": "2024-04-11T22:26:19.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "database.py",
               "DocumentMoniker": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\database.py",
               "RelativeDocumentMoniker": "PythonApplication1\\database.py",
               "ToolTip": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\database.py",
               "RelativeToolTip": "PythonApplication1\\database.py",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGMAAAAIAAAA",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAwwIIAAACjAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
               "WhenOpened": "2024-04-09T16:59:31.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "visualizer.py",
+              "DocumentMoniker": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\visualizer.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\visualizer.py",
+              "ToolTip": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\visualizer.py",
+              "RelativeToolTip": "PythonApplication1\\visualizer.py",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAwwFoAAAAPAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-04-11T22:26:19.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "main.py",
               "DocumentMoniker": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\main.py",
               "RelativeDocumentMoniker": "PythonApplication1\\main.py",
               "ToolTip": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\main.py",
               "RelativeToolTip": "PythonApplication1\\main.py",
-              "ViewState": "AQIAAC4AAAAAMzMzMzMLwAgAAAAPAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEkAAAAKAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
               "WhenOpened": "2024-04-09T16:48:22.791Z",
               "EditorCaption": ""
@@ -78,44 +78,44 @@
           ]
         },
         {
-          "DockedWidth": 157,
+          "DockedWidth": 230,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "test_mapper.py",
               "DocumentMoniker": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\test_mapper.py",
               "RelativeDocumentMoniker": "PythonApplication1\\test_mapper.py",
               "ToolTip": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\test_mapper.py",
               "RelativeToolTip": "PythonApplication1\\test_mapper.py",
-              "ViewState": "AQIAAA8AAAAAAAAAAABAvSUAAAAaAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwD4AAAAEAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
-              "WhenOpened": "2024-04-18T22:51:16.821Z",
+              "WhenOpened": "2024-06-13T18:36:31.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "function_selector.py",
               "DocumentMoniker": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\function_selector.py",
               "RelativeDocumentMoniker": "PythonApplication1\\function_selector.py",
               "ToolTip": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\function_selector.py",
               "RelativeToolTip": "PythonApplication1\\function_selector.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAEAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
               "WhenOpened": "2024-04-09T16:47:29.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "data_loader.py",
               "DocumentMoniker": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\data_loader.py",
               "RelativeDocumentMoniker": "PythonApplication1\\data_loader.py",
               "ToolTip": "D:\\Projects\\ProgrammingWithPython_Task1\\Task1\\PythonApplication1\\data_loader.py",
               "RelativeToolTip": "PythonApplication1\\data_loader.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAABCAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
               "WhenOpened": "2024-04-11T16:09:46.412Z",
               "EditorCaption": ""

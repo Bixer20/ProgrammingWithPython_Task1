@@ -1,8 +1,14 @@
 import numpy as np
-import pandas as pd
 
 class TestDataMapper:
     def __init__(self, test_data, selected_functions, training_data):
+        """
+        Initializes the TestDataMapper class.
+
+        test_data (pandas.DataFrame): The test data to be mapped.
+        selected_functions (list): A list of DataFrames representing the selected ideal functions.
+        training_data (pandas.DataFrame): The training data used for calculating deviations.
+        """
         self.test_data = test_data
         self.selected_functions = selected_functions
         self.training_data = training_data
@@ -16,8 +22,7 @@ class TestDataMapper:
         """
         Map the test data to the selected ideal functions.
     
-        Returns:
-            list: A list of dictionaries containing 'x', 'y', 'ideal_function_id', and 'deviation' for each test data point.
+        Returns: List: A list of dictionaries containing 'x', 'y', 'ideal_function_id', and 'deviation' for each test data point.
         """
         mapped_data = []
         for _, row in self.test_data.iterrows():
@@ -41,16 +46,16 @@ class TestDataMapper:
         """
         Calculate the maximum deviation between the training data and an ideal function.
     
-        Args:
+        values:
             data (pandas.DataFrame): Training data with columns 'x', 'y1', 'y2', 'y3', 'y4'.
-            y_ideal (numpy.ndarray): Ideal function values.
+            y_ideal (numpy.ndarray): Ideal function values corresponding to the 'y' column in function_df.
             function_df (pandas.DataFrame): The DataFrame containing the ideal function column.
     
         Returns:
-            float: Maximum deviation.
+            float: Maximum deviation between the training data and the ideal function.
         """
         max_deviation = 0
-        for y_train in data.columns[1:]:  # Iterate over all columns except 'x'
+        for y_train in data.columns[1:]:  # Iterate over all 'y' columns except 'x'
             y_train_values = data[y_train].values
             deviations = np.abs(y_train_values - y_ideal)
             max_deviation = max(max_deviation, np.max(deviations))

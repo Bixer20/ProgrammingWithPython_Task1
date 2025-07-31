@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 
 class FunctionSelector:
     def __init__(self, training_data, ideal_functions):

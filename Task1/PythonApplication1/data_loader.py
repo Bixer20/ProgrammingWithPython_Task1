@@ -12,10 +12,6 @@ class DataLoader:
 
         Returns:
             pandas.DataFrame: Training data with columns 'X', 'Y1', 'Y2', 'Y3', 'Y4'.
-            
-        Raises:
-            FileNotFoundError: If the file is not found.
-            Exception: If any other error occurs while loading the data.
 
         """
         try:
@@ -38,9 +34,6 @@ class DataLoader:
         Returns:
             pandas.DataFrame: Test data with columns 'x', 'y'.
 
-        Raises:
-            FileNotFoundError: If the file is not found.
-            Exception: If any other error occurs while loading the data.
         """
         try:
             test_data = pd.read_csv(self.test_file, names=['x', 'y'])
@@ -60,9 +53,6 @@ class DataLoader:
         Returns:
             pandas.DataFrame: Ideal functions with columns 'x', 'y1', 'y2', ..., 'y50'.
 
-        Raises:
-            FileNotFoundError: If the file is not found.
-            Exception: If any other error occurs while loading the data.
         """
         try:
             ideal_functions = pd.read_csv(self.ideal_file)

@@ -7,6 +7,7 @@ from visualizer import Visualizer
 
 def main():
     # Load data
+    # I used Dataset1 because I couldn't download Dataset2. It has been deleted.
     train_file = 'D:/IUBH/ProgrammingWithPython/Teams/Datasets1/train.csv'
     test_file = 'D:/IUBH/ProgrammingWithPython/Teams/Datasets1/test.csv'
     ideal_file = 'D:/IUBH/ProgrammingWithPython/Teams/Datasets1/ideal.csv'
@@ -58,11 +59,6 @@ def main():
     saved_mapped_data = db.get_test_data()
     print("Saved Mapped Data:")
     print(saved_mapped_data)
-    # Print selected_functions
-    #for i, function in enumerate(selected_functions):
-    #    print(f"Selected Function {i+1}:")
-    #    print(function)
-    #    print()
     print(selected_functions)
     print()
     
